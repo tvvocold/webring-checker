@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "webring-checker",
-  "alias": "webring-checker.now.sh",
+  "alias": "webring-checker-cn.now.sh",
   "builds": [
 		{ "src": "*.html", "use": "@now/static" },
 		{ "src": "style/*.css", "use": "@now/static" },
